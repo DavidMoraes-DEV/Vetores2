@@ -1,0 +1,13 @@
+C:\ProgramasCSharp\ConceitoDeVetorComReferencia\ExercicioDeFixacao\ExercicioDeFixacao\bin\Debug\netcoreapp3.1\ExercicioDeFixacao.exe
+C:\ProgramasCSharp\ConceitoDeVetorComReferencia\ExercicioDeFixacao\ExercicioDeFixacao\bin\Debug\netcoreapp3.1\ExercicioDeFixacao.deps.json
+C:\ProgramasCSharp\ConceitoDeVetorComReferencia\ExercicioDeFixacao\ExercicioDeFixacao\bin\Debug\netcoreapp3.1\ExercicioDeFixacao.runtimeconfig.json
+C:\ProgramasCSharp\ConceitoDeVetorComReferencia\ExercicioDeFixacao\ExercicioDeFixacao\bin\Debug\netcoreapp3.1\ExercicioDeFixacao.runtimeconfig.dev.json
+C:\ProgramasCSharp\ConceitoDeVetorComReferencia\ExercicioDeFixacao\ExercicioDeFixacao\bin\Debug\netcoreapp3.1\ExercicioDeFixacao.dll
+C:\ProgramasCSharp\ConceitoDeVetorComReferencia\ExercicioDeFixacao\ExercicioDeFixacao\bin\Debug\netcoreapp3.1\ExercicioDeFixacao.pdb
+C:\ProgramasCSharp\ConceitoDeVetorComReferencia\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\netcoreapp3.1\ExercicioDeFixacao.csprojAssemblyReference.cache
+C:\ProgramasCSharp\ConceitoDeVetorComReferencia\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\netcoreapp3.1\ExercicioDeFixacao.AssemblyInfoInputs.cache
+C:\ProgramasCSharp\ConceitoDeVetorComReferencia\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\netcoreapp3.1\ExercicioDeFixacao.AssemblyInfo.cs
+C:\ProgramasCSharp\ConceitoDeVetorComReferencia\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\netcoreapp3.1\ExercicioDeFixacao.csproj.CoreCompileInputs.cache
+C:\ProgramasCSharp\ConceitoDeVetorComReferencia\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\netcoreapp3.1\ExercicioDeFixacao.dll
+C:\ProgramasCSharp\ConceitoDeVetorComReferencia\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\netcoreapp3.1\ExercicioDeFixacao.pdb
+C:\ProgramasCSharp\ConceitoDeVetorComReferencia\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\netcoreapp3.1\ExercicioDeFixacao.genruntimeconfig.cache
